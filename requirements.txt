@@ -6,6 +6,3 @@ opencv-python
 python-dotenv
 pandas
 numpy
-tqdm
-Pillow
-requests
