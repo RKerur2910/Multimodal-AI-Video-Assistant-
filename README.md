@@ -62,7 +62,8 @@ The **Multimodal AI Video Assistant** is an AI system that performs **image and 
 - Support multi-topic batching and scheduled digest creation.
 - Add transcript export alongside audio output for accessibility.
 
+**Riya Kalyan Kerur**  
+Master’s Student, Computer Engineering — California State University, Sacramento  
+🌐 [LinkedIn](https://www.linkedin.com/in/riya-kerur/)  
 
-Riya Kalyan Kerur
-Master’s Student, Computer Engineering — California State University, Sacramento
-🌐 LinkedIn
+---
