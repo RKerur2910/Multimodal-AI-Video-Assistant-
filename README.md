@@ -53,18 +53,15 @@ The **Multimodal AI Video Assistant** is an AI system that performs **image and 
 ## 🔍 Use Cases
 
 - Automated generation of daily or weekly research summaries.
-
-Converting long-form videos, lectures, or reports into short, digestible audio briefs.
-
-Assisting creators, journalists, and analysts with multimodal content analysis.
+- Converting long-form videos, lectures, or reports into short, digestible audio briefs.
+- Assisting creators, journalists, and analysts with multimodal content analysis.
 
 ## ▶️ Next Steps
 
-Extend to mini-podcast generation with ≤60-second summaries.
+- Extend to mini-podcast generation with ≤60-second summaries.
+- Support multi-topic batching and scheduled digest creation.
+- Add transcript export alongside audio output for accessibility.
 
-Support multi-topic batching and scheduled digest creation.
-
-Add transcript export alongside audio output for accessibility.
 
 Riya Kalyan Kerur
 Master’s Student, Computer Engineering — California State University, Sacramento
